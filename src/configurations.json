@@ -2,7 +2,6 @@
   "backgroundType": "plain",
   "plainBackgroundMode": "daylight",
   "devIntro": "Your library name",
-  "devDesc": "React Naitve | GraphQL | NativeScript | Redux ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png"
 }
